@@ -3,8 +3,10 @@
 게스트 하우스 운영 및 예약 사이트   
 By, SangWon Seon   
 
-URL : https://seonsangwon.dev/house [진행예정]
-------------------------------------------------------------
+URL : https://seonsangwon.dev/house [진행예정]   
+PPT : https://sangwon.portfoliobox.net/jsp_project   
+
+------------------------------------------------------------------
 
 IDE : Eclipse   
 Language : JSP   
